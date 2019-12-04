@@ -1,0 +1,690 @@
+{
+    "Format": "1.10.0",
+    "Changes": [
+    
+       {
+          "Action": "Load",
+          "Target": "Portraits/Abigail",
+          "FromFile": "NPC/Abigail.png"
+       },
+       {
+        "Action": "Load",
+        "Target": "Portraits/Alex",
+        "FromFile": "NPC/Alex.png"
+     },       {
+        "Action": "Load",
+        "Target": "Portraits/Bouncer",
+        "FromFile": "NPC/Bouncer.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Caroline",
+        "FromFile": "NPC/Caroline.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Clint",
+        "FromFile": "NPC/Clint.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Demetrius",
+        "FromFile": "NPC/Demetrius.png"
+     },     {
+        "Action": "Load",
+        "Target": "Portraits/Dwarf",
+        "FromFile": "NPC/Dwarf.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Elliott",
+        "FromFile": "NPC/Elliott.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Emily",
+        "FromFile": "NPC/Emily.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Evelyn",
+        "FromFile": "NPC/Evelyn.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/George",
+        "FromFile": "NPC/George.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Gil",
+        "FromFile": "NPC/Gil.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Governor",
+        "FromFile": "NPC/Governor.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Grandpa",
+        "FromFile": "NPC/Grandpa.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Gunther",
+        "FromFile": "NPC/Gunther.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Gus",
+        "FromFile": "NPC/Gus.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Haley",
+        "FromFile": "NPC/Haley.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Harvey",
+        "FromFile": "NPC/Harvey.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Henchman",
+        "FromFile": "NPC/Henchman.png"
+     },     
+     {
+        "Action": "Load",
+        "Target": "Portraits/Jas",
+        "FromFile": "NPC/Jas.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Jodi",
+        "FromFile": "NPC/Jodi.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Kent",
+        "FromFile": "NPC/Kent.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Krobus",
+        "FromFile": "NPC/Krobus.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Krobus_Trenchcoat",
+        "FromFile": "NPC/Krobus_Trenchcoat.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Leah",
+        "FromFile": "NPC/Leah.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Lewis",
+        "FromFile": "NPC/Lewis.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Linus",
+        "FromFile": "NPC/Linus.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Marlon",
+        "FromFile": "NPC/Marlon.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Marnie",
+        "FromFile": "NPC/Marnie.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Maru",
+        "FromFile": "NPC/Maru.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Maru_Hospital",
+        "FromFile": "NPC/Maru_Hospital.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Morris",
+        "FromFile": "NPC/Morris.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/MrQi",
+        "FromFile": "NPC/MrQi.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Pam",
+        "FromFile": "NPC/Pam.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Penny",
+        "FromFile": "NPC/Penny.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Pierre",
+        "FromFile": "NPC/Pierre.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Robin",
+        "FromFile": "NPC/Robin.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Sam",
+        "FromFile": "NPC/Sam.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Sandy",
+        "FromFile": "NPC/Sandy.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Sebastian",
+        "FromFile": "NPC/Sebastian.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Shane",
+        "FromFile": "NPC/Shane.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Vincent",
+        "FromFile": "NPC/Vincent.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Willy",
+        "FromFile": "NPC/Willy.png"
+     },
+     {
+        "Action": "Load",
+        "Target": "Portraits/Wizard",
+        "FromFile": "NPC/Wizard.png"
+     },
+
+     {
+        "Action": "Load",
+        "Target": "Characters/Abigail",
+        "FromFile": "ACC_Characters/Abigail.png"
+     },
+     {
+      "Action": "Load",
+      "Target": "Characters/Alex",
+      "FromFile": "ACC_Characters/Alex.png"
+    },       
+    {
+      "Action": "Load",
+      "Target": "Characters/Bouncer",
+      "FromFile": "ACC_Characters/Bouncer.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Caroline",
+      "FromFile": "ACC_Characters/Caroline.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Clint",
+      "FromFile": "ACC_Characters/Clint.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/ClothesTherapyCharacters",
+        "FromFile": "ACC_Characters/ClothesTherapyCharacters.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Demetrius",
+      "FromFile": "ACC_Characters/Demetrius.png"
+    },     {
+      "Action": "Load",
+      "Target": "Characters/Dwarf",
+      "FromFile": "ACC_Characters/Dwarf.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Elliott",
+      "FromFile": "ACC_Characters/Elliott.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Emily",
+      "FromFile": "ACC_Characters/Emily.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Evelyn",
+      "FromFile": "ACC_Characters/Evelyn.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/farmer_base",
+        "FromFile": "ACC_Characters/farmer_base.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/farmer_girl_base",
+        "FromFile": "ACC_Characters/farmer_girl_base.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/George",
+      "FromFile": "ACC_Characters/George.png"
+    },
+
+
+
+    {
+      "Action": "Load",
+      "Target": "Characters/Governor",
+      "FromFile": "ACC_Characters/Governor.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Gunther",
+      "FromFile": "ACC_Characters/Gunther.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Gus",
+      "FromFile": "ACC_Characters/Gus.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Haley",
+      "FromFile": "ACC_Characters/Haley.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Harvey",
+      "FromFile": "ACC_Characters/Harvey.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Henchman",
+      "FromFile": "ACC_Characters/Henchman.png"
+    },     
+    {
+      "Action": "Load",
+      "Target": "Characters/Jas",
+      "FromFile": "ACC_Characters/Jas.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Jodi",
+      "FromFile": "ACC_Characters/Jodi.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Kent",
+      "FromFile": "ACC_Characters/Kent.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Krobus",
+      "FromFile": "ACC_Characters/Krobus.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Krobus_Trenchcoat",
+      "FromFile": "ACC_Characters/Krobus_Trenchcoat.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Leah",
+      "FromFile": "ACC_Characters/Leah.png"
+    },
+
+
+    {
+        "Action": "Load",
+        "Target": "Characters/LeahExFemale",
+        "FromFile": "ACC_Characters/LeahExFemale.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/LeahExMale",
+        "FromFile": "ACC_Characters/LeahExMale.png"
+    },
+
+
+    {
+      "Action": "Load",
+      "Target": "Characters/Lewis",
+      "FromFile": "ACC_Characters/Lewis.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Linus",
+      "FromFile": "ACC_Characters/Linus.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/Marcello",
+        "FromFile": "ACC_Characters/Marcello.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/Mariner",
+        "FromFile": "ACC_Characters/Mariner.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Marlon",
+      "FromFile": "ACC_Characters/Marlon.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Marnie",
+      "FromFile": "ACC_Characters/Marnie.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Maru",
+      "FromFile": "ACC_Characters/Maru.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Maru_Hospital",
+      "FromFile": "ACC_Characters/Maru_Hospital.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Morris",
+      "FromFile": "ACC_Characters/Morris.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/MrQi",
+      "FromFile": "ACC_Characters/MrQi.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Pam",
+      "FromFile": "ACC_Characters/Pam.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Penny",
+      "FromFile": "ACC_Characters/Penny.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Pierre",
+      "FromFile": "ACC_Characters/Pierre.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Robin",
+      "FromFile": "ACC_Characters/Robin.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Sam",
+      "FromFile": "ACC_Characters/Sam.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Sandy",
+      "FromFile": "ACC_Characters/Sandy.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/SeaMonsterKrobus",
+        "FromFile": "ACC_Characters/SeaMonsterKrobus.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Sebastian",
+      "FromFile": "ACC_Characters/Sebastian.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Shane",
+      "FromFile": "ACC_Characters/Shane.png"
+    },
+    {
+        "Action": "Load",
+        "Target": "Characters/Shane_JojaMart",
+        "FromFile": "ACC_Characters/Shane_JojaMart.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Vincent",
+      "FromFile": "ACC_Characters/Vincent.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Willy",
+      "FromFile": "ACC_Characters/Willy.png"
+    },
+    {
+      "Action": "Load",
+      "Target": "Characters/Wizard",
+      "FromFile": "ACC_Characters/Wizard.png"
+    },
+
+
+    {
+        "Action": "Load",
+        "Target": "LooseSprites/boardGame",
+        "FromFile": "Sprites/boardGame.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/cowPhotos",
+        "FromFile": "Sprites/cowPhotos.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/cowPhotosWinter",
+        "FromFile": "Sprites/cowPhotosWinter.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.de-DE",
+        "FromFile": "Sprites/Cursors.de-DE.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.es-ES",
+        "FromFile": "Sprites/Cursors.es-ES.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.fr-FR",
+        "FromFile": "Sprites/Cursors.fr-FR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.hu-HU",
+        "FromFile": "Sprites/Cursors.hu-HU.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.it-IT",
+        "FromFile": "Sprites/Cursors.it-IT.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.ja-JP",
+        "FromFile": "Sprites/Cursors.ja-JP.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.ko-KR",
+        "FromFile": "Sprites/Cursors.ko-KR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors",
+        "FromFile": "Sprites/Cursors.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.pt-BR",
+        "FromFile": "Sprites/Cursors.pt-BR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.ru-RU",
+        "FromFile": "Sprites/Cursors.ru-RU.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.tr-TR",
+        "FromFile": "Sprites/Cursors.tr-TR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Cursors.de-DE",
+        "FromFile": "Sprites/Cursors.zh-CN.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/emojis",
+        "FromFile": "Sprites/emojis.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.de-DE",
+        "FromFile": "Sprites/JunimoNote.de-DE.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.es-ES",
+        "FromFile": "Sprites/JunimoNote.es-ES.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.fr-FR",
+        "FromFile": "Sprites/JunimoNote.fr-FR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.hu-HU",
+        "FromFile": "Sprites/JunimoNote.hu-HU.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.it-IT",
+        "FromFile": "Sprites/JunimoNote.it-IT.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.ja-JP",
+        "FromFile": "Sprites/JunimoNote.ja-JP.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.ko-KR",
+        "FromFile": "Sprites/JunimoNote.ko-KR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote",
+        "FromFile": "Sprites/JunimoNote.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.pt-BR",
+        "FromFile": "Sprites/JunimoNote.pt-BR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.ru-RU",
+        "FromFile": "Sprites/JunimoNote.ru-RU.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.tr-TR",
+        "FromFile": "Sprites/JunimoNote.tr-TR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/JunimoNote.zh-CN",
+        "FromFile": "Sprites/JunimoNote.zh-CN.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/Movies",
+        "FromFile": "Sprites/Movies.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "LooseSprites/temporary_sprites_1",
+        "FromFile": "Sprites/temporary_sprites_1.png"
+      },
+
+
+      {
+        "Action": "Load",
+        "Target": "Minigames/Intro",
+        "FromFile": "Games/Intro.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.es-ES",
+        "FromFile": "Games/jojacorps.es-ES.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.fr-FR",
+        "FromFile": "Games/jojacorps.fr-FR.png"
+      },
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.hu-HU",
+        "FromFile": "Games/jojacorps.hu-HU.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.ja-JP",
+        "FromFile": "Games/jojacorps.ja-JP.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.es-ES",
+        "FromFile": "Games/jojacorps.es-ES.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.ko-KR",
+        "FromFile": "Games/jojacorps.ko-KR.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps",
+        "FromFile": "Games/jojacorps.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.pt-BR",
+        "FromFile": "Games/jojacorps.pt-BR.png"
+      }, 
+      {
+        "Action": "Load",
+        "Target": "Minigames/jojacorps.zh-CN",
+        "FromFile": "Games/jojacorps.zh-CN.png"
+      }
+    ]
+ }
