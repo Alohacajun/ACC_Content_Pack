@@ -1,5 +1,6 @@
  ## Anthro Characters Continued Content Pack
 *A furry overhaul mod for Stardew Valley 1.4.1 using Content Patcher*
+
 *THIS REPO IS STILL UNDER CONSTRUCTION!*
 > Overhauls every NPC in the game, creating a  wholly
 >  re-imagined Stardew Valley experience for those who enjoy 
